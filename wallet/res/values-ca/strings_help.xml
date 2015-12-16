@@ -3,11 +3,11 @@
   <string name="help_wallet">
 <![CDATA[
 		<p>
-			La part superior esquerra de la pantalla mostra l\'adreça Bitcoin que has seleccionat, que és la que ha de conèixer l\'altra gent per a poder enviar-te Bitcoins.
+			La part superior esquerra de la pantalla mostra l\'adreça Blackcoin que has seleccionat, que és la que ha de conèixer l\'altra gent per a poder enviar-te Bitcoins.
 			Prem per canviar l\'adreça.
 		</p>
 		<p>
-			El codi QR de la dreta conté la teva adreça bitcoin i pot ser utilitzada si es escanejada per l\'altra persona.
+			El codi QR de la dreta conté la teva adreça blackcoin i pot ser utilitzada si es escanejada per l\'altra persona.
 			Prem sobre el codi QR per obtenir-ne una versió més gran.
 		</p>
 		<p>
