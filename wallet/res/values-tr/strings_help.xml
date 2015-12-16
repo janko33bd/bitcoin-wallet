@@ -3,11 +3,11 @@
   <string name="help_wallet">
 <![CDATA[
 		<p>
-			Ekranın sol üst köşesi bakiyenizi Bitcoin olarak ve seçilen bir para biriminde gösterir.
+			Ekranın sol üst köşesi bakiyenizi Blackcoin olarak ve seçilen bir para biriminde gösterir.
 			Milli para birimleri listesine gitmek için dokununuz ve ardından herhangi bir para birimini varsayılan olarak seçmek için yine dokununuz.
 		</p>
 		<p>
-			Sağ taraftaki QR kodu bitcoin adresinizi içerir ve başka birisinin ödeme yapmak için onu taraması mümkündür.
+			Sağ taraftaki QR kodu blackcoin adresinizi içerir ve başka birisinin ödeme yapmak için onu taraması mümkündür.
 			Daha büyük bir sürümünü elde etmek için QR koduna dokununuz.
 		</p>
 		<p>
@@ -16,7 +16,7 @@
 			Gönderici ya da alıcı adresini adres defterine eklemek için bir unsura dokununuz.
 		</p>
 		<p>
-			Bitcoin göndermek ya da talepte bulunmak için eylem çubuğundaki düğmelere dokunabilirsiniz.
+			Blackcoin göndermek ya da talepte bulunmak için eylem çubuğundaki düğmelere dokunabilirsiniz.
 			Seçenekler menüsünde daha fazla seçenek bulabilirsiniz.
 		</p>
 	]]>
@@ -24,18 +24,18 @@
   <string name="help_request_coins">
 <![CDATA[
 		<p>
-			Bu diyaloğu kullanarak başka bir kişiden Bitcoin talep edebilirsiniz (bu kişinin Bitcoin Wallet uygulamasını cihazında kurmuş olması gerekir).
+			Bu diyaloğu kullanarak başka bir kişiden Blackcoin talep edebilirsiniz (bu kişinin Blackcoin Wallet uygulamasını cihazında kurmuş olması gerekir).
 		</p>
 		<p>
-			İlk olarak talep edilen Bitcoin miktarını girebilirsiniz.
+			İlk olarak talep edilen Blackcoin miktarını girebilirsiniz.
 		</p>
 		<p>
 			Ardından ya diğer kişi tarafından taranacak bir QR code oluşturmanız,
 			ya da uzaktaki bir kişiye etkinlik çubuğunda paylaş düğmesiyle talebinizi göndermeniz gerekir.
-			Bu kişinin Bitcoin bağlantısını tıklaması gerekecektir.
+			Bu kişinin Blackcoin bağlantısını tıklaması gerekecektir.
 		</p>
 		<p>
-			Her durumda diğer kişiye Bitcoin göndermesi için tüm seçenekleri doldurulmuş bir diyalog gösterilecektir.
+			Her durumda diğer kişiye Blackcoin göndermesi için tüm seçenekleri doldurulmuş bir diyalog gösterilecektir.
 			Kabul ederse tüm yapması gereken muameleyi yollamaktır.
 		</p>
 	]]>
@@ -43,16 +43,16 @@
   <string name="help_send_coins">
 <![CDATA[
 		<p>
-			Bitcoin gönderme prosedürünü başlattınız.
-			Buraya ya ana ekrandan ya da mobil ağ tarayıcınızda bir Bitcoin bağlantısına tıklayarak geldiniz.
+			Blackcoin gönderme prosedürünü başlattınız.
+			Buraya ya ana ekrandan ya da mobil ağ tarayıcınızda bir Blackcoin bağlantısına tıklayarak geldiniz.
 		</p>
 		<p>
-			İlk olarak ödeme yapacağınız Bitcoin adresini girmelisiniz.
+			İlk olarak ödeme yapacağınız Blackcoin adresini girmelisiniz.
 			Adres defterinizde bilinen adreslere dayanılarak adres otomatik olarak tamamlanacaktır.
-			Ayrıca etkinlik çubuğunda QR düğmesine dokunarak Bitcoin adresi ya da talebi içeren QR kodlarını tarayabilirsiniz.
+			Ayrıca etkinlik çubuğunda QR düğmesine dokunarak Blackcoin adresi ya da talebi içeren QR kodlarını tarayabilirsiniz.
 		</p>
 		<p>
-			Bunun ardından o anda ne kadar Bitcoin harcayabileceğinizi görüntüleyebilirsiniz.
+			Bunun ardından o anda ne kadar Blackcoin harcayabileceğinizi görüntüleyebilirsiniz.
 			Varsa ana ekrandaki bakiye ile farklılıklar henüz teyit edilmemiştir ve dolayısıyla henüz harcanamaz.
 		</p>
 		<p>
@@ -60,7 +60,7 @@
 		</p>
 		<p>
 			Çevrimdışı olduğunuz sırada bir muamele girebilirsiniz.
-			Bitcoin Wallet uygulamasının sonraki açılışında gönderilir.
+			Blackcoin Wallet uygulamasının sonraki açılışında gönderilir.
 			Bir muamelenin mümkün olduğu kadar çabuk işlenmesini istiyorsanız bağlantınızın iyi olduğundan (mesela WLAN ile).
 		</p>
 		<p>
@@ -73,20 +73,20 @@
   <string name="help_safety">
 <![CDATA[
 		<p>
-			<b>Bitcoinlerinizin güvenliği hakkında önemli noktalar:</b>
+			<b>Blackcoinlerinizin güvenliği hakkında önemli noktalar:</b>
 		</p>
 		<p>
-			Bitcoin cüzdanınızdaki Bitcoinler cihazınızda saklanır.
-			<b>Cihazınızı kaybederseniz Bitcoinlerinizi de kaybedersiniz.</b>
+			Blackcoin cüzdanınızdaki Blackcoinler cihazınızda saklanır.
+			<b>Cihazınızı kaybederseniz Blackcoinlerinizi de kaybedersiniz.</b>
 			Tıpkı fiziki cüzdanınızdaki para gibi.
 		</p>
 		<p>
-			<b>Bitcoin Wallet</b> uygulamasını kaldırmadan önce (ya da uygulama verilerini/cihazınızı sıfırlamadan önce) <b>tüm Bitcoinlerinizi başka bir cüzdana aktarınız</b>.
-			Kalan tüm Bitcoinler kaybolacaktır.
+			<b>Blackcoin Wallet</b> uygulamasını kaldırmadan önce (ya da uygulama verilerini/cihazınızı sıfırlamadan önce) <b>tüm Blackcoinlerinizi başka bir cüzdana aktarınız</b>.
+			Kalan tüm Blackcoinler kaybolacaktır.
 		</p>
 		<p>
 			<b>Muameleler geri alınamaz</b>.
-			Bitcoinlerinizi yanlış bir adrese yollarsanız, bunları geri almak için alıcıyı tanımanız ve onun geri yollamayı kabul etmeniz dışında hiçbir yol yoktur.
+			Blackcoinlerinizi yanlış bir adrese yollarsanız, bunları geri almak için alıcıyı tanımanız ve onun geri yollamayı kabul etmeniz dışında hiçbir yol yoktur.
 		</p>
 		<p>
 			<b>Android cihazınızı güvenli kullanın!</b>
@@ -95,7 +95,7 @@
 		</p>
 		<p>
 			Riski sınırlayın!
-			<b>Bitcoin Wallet uygulamasını sadece küçük tutarlar için kullanınız</b>.
+			<b>Blackcoin Wallet uygulamasını sadece küçük tutarlar için kullanınız</b>.
 		</p>
 	]]>
 	</string>
