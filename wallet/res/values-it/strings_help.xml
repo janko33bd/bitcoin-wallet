@@ -3,11 +3,11 @@
   <string name="help_wallet">
 <![CDATA[
 		<p>
-			La parte in alto a sinistra dello schermo mostra gli indirizzo Bitcoin che le altre persone hanno bisogno per poterti inviare dei Bitcoin.
+			La parte in alto a sinistra dello schermo mostra gli indirizzo Blackcoin che le altre persone hanno bisogno per poterti inviare dei Blackcoin.
 			Premi per cambiare l\'indirizzo.
 		</p>
 		<p>
-			Il codice QR sulla destra contiene il tuo indirizzo Bitcoin e può essere usato per farlo leggere ad altri.
+			Il codice QR sulla destra contiene il tuo indirizzo Blackcoin e può essere usato per farlo leggere ad altri.
 			Premi sul codice per visualizzarne una versione più grande.
 		</p>
 		<p>
@@ -21,7 +21,7 @@
 			Premi su una di esse per aggiungere gli indirizzi mittente o destinazione nella rubrica.
 		</p>
 		<p>
-			Puoi inviare o ricevere Bitcoins premendo i tasti nella barra delle azioni.
+			Puoi inviare o ricevere Blackcoins premendo i tasti nella barra delle azioni.
 			Sono disponibili ulteriori comandi nel menù opzioni.
 		</p>
 	]]>
@@ -29,19 +29,19 @@
   <string name="help_request_coins">
 <![CDATA[
 		<p>
-			Utilizzando questa finestra puoi richiedere dei Bitcoin ad un\'altra persona
-			(che dovrebbe aver già installato Bitcoin Wallet).
+			Utilizzando questa finestra puoi richiedere dei Blackcoin ad un\'altra persona
+			(che dovrebbe aver già installato Blackcoin Wallet).
 		</p>
 		<p>
-			Come prima cosa puoi inserire il numero di Bitcoin da richiedere.
+			Come prima cosa puoi inserire il numero di Blackcoin da richiedere.
 		</p>
 		<p>
 			Poi puoi generare dei codici QR da far acquisire all\'altra persona.
 			Oppure puoi inviare la richiesta con il tasto \"condividi\" nella barra azioni.
-			La persona che riceve la richiesta dovrà cliccare l\'URL Bitcoin.
+			La persona che riceve la richiesta dovrà cliccare l\'URL Blackcoin.
 		</p>
 		<p>
-			In ogni modo alla persona ricevente verrà presentata un modulo precompilato per inviare i Bitcoin.
+			In ogni modo alla persona ricevente verrà presentata un modulo precompilato per inviare i Blackcoin.
 			Per confermare l\'invio dovrà solo accettare la transazione.
 		</p>
 	]]>
@@ -49,24 +49,24 @@
   <string name="help_send_coins">
 <![CDATA[
 		<p>
-			Hai iniziato il processo per inviare Bitcoins.
-			Sei giunto qui a partire dalla schermata principale o cliccando su di un URL Bitcoin dal tuo browser.
+			Hai iniziato il processo per inviare Blackcoins.
+			Sei giunto qui a partire dalla schermata principale o cliccando su di un URL Blackcoin dal tuo browser.
 		</p>
 		<p>
-			Come prima cosa è necessario inserire l\'indirizzo Bitcoin a cui inviare.
+			Come prima cosa è necessario inserire l\'indirizzo Blackcoin a cui inviare.
 			L\'indirizzo si autocompleterà in base al contenuto della tua rubrica.
-			Puoi anche acquisire un codice QR che contiene indirizzi Bitcoin o richieste Bitcoin premendo il tasto QR sulla barra azioni.
+			Puoi anche acquisire un codice QR che contiene indirizzi Blaccoin o richieste Blackcoin premendo il tasto QR sulla barra azioni.
 		</p>
 		<p>
-			Ti è poi possibile visualizzare quanti Bitcoin puoi spendere.
+			Ti è poi possibile visualizzare quanti Blackcoin puoi spendere.
 			Eventuali differenze con il saldo visualizzato sulla schermata principale fanno parte di transazioni
 			non ancora confermate il cui importo non può quindi essere ancora utilizzato.
 		</p>
 		<p>
-			Puoi infine inserire il numero di Bitcoin da inviare.
+			Puoi infine inserire il numero di Blackcoin da inviare.
 		</p>
 		<p>
-			Puoi inserire una transazione anche senza collegamento ad Internet, verrà inviata alla prossima esecuzione di Bitcoin Wallet.
+			Puoi inserire una transazione anche senza collegamento ad Internet, verrà inviata alla prossima esecuzione di Blackcoin Wallet.
 			Se vuoi che la transazione venga processata il prima possibile assicurati di avere un buon collegamento ad Internet.
 		</p>
 		<p>
@@ -79,20 +79,20 @@
   <string name="help_safety">
 <![CDATA[
 		<p>
-			<b>Alcune informazioni riguardo la sicurezza relativa ai vostri Bitcoins:</b>
+			<b>Alcune informazioni riguardo la sicurezza relativa ai vostri Blackcoins:</b>
 		</p>
 		<p>
-			I Bitcoins di Bitcoin Wallet vengono memorizzati sul dispositivo.
-			<b>Se perdi il dispositivo, perdi i tuoi Bitcoin.</b>
+			I Blackcoins di Blackcoin Wallet vengono memorizzati sul dispositivo.
+			<b>Se perdi il dispositivo, perdi i tuoi Blackcoin.</b>
 			Esattamente come denaro nel tuo vero portafoglio.
 		</p>
 		<p>
-			<b>Prima di disinstallare Bitcoin Wallet</b> (o cancellare i dati dell\'applicazione o del dispositivo), <b>trasferisci i tuoi Bitcoins ad un altro portafoglio</b>.
-			Eventuali Bitcoin non trasferiti saranno persi per sempre.
+			<b>Prima di disinstallare Blackcoin Wallet</b> (o cancellare i dati dell\'applicazione o del dispositivo), <b>trasferisci i tuoi Blackcoins ad un altro portafoglio</b>.
+			Eventuali Blackcoin non trasferiti saranno persi per sempre.
 		</p>
 		<p>
 			<b>I pagamenti non possono essere annullate</b>.
-			Se invi i tuoi Bitcoin ad indirizzi errati non c\'è modo di riaverli indietro
+			Se invi i tuoi Blackcoin ad indirizzi errati non c\'è modo di riaverli indietro
 			a meno che tu non conosca il ricevente e che sia disponibile a restituirli.
 		</p>
 		<p>
@@ -102,7 +102,7 @@
 		</p>
 		<p>
 			Tieni basso il rischio!
-			<b>Usa Bitcoin Wallet solo con piccoli importi</b> sufficienti per l\'uso quotidiano.
+			<b>Usa Blackcoin Wallet solo con piccoli importi</b> sufficienti per l\'uso quotidiano.
 		</p>
 	]]>
 	</string>
