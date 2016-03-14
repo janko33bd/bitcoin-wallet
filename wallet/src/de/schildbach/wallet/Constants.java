@@ -19,6 +19,7 @@ package de.schildbach.wallet;
 
 import java.io.File;
 
+import org.bitcoinj.core.Context;
 import org.bitcoinj.core.NetworkParameters;
 import org.bitcoinj.params.MainNetParams;
 import org.bitcoinj.params.TestNet3Params;
@@ -41,6 +42,9 @@ public final class Constants
 
 	/** Network this wallet is on (e.g. testnet or mainnet). */
 	public static final NetworkParameters NETWORK_PARAMETERS = TEST ? TestNet3Params.get() : MainNetParams.get();
+
+	/** Bitcoinj global context. */
+	public static final Context CONTEXT = new Context(NETWORK_PARAMETERS);
 
 	public final static class Files
 	{
@@ -102,7 +106,7 @@ public final class Constants
 	public static final String DEFAULT_EXCHANGE_CURRENCY = "USD";
 
 	/** Donation address for tip/donate action. */
-	public static final String DONATION_ADDRESS = "18CK5k1gajRKKSC7yVSTXT9LUzbheh1XY4";
+	public static final String DONATION_ADDRESS = "141TVuPJsecmcWqk4CieDUsUKn4Pi4TFaD";
 
 	/** Recipient e-mail address for reports. */
 	public static final String REPORT_EMAIL = "bitcoin.wallet.developers@gmail.com";
@@ -133,18 +137,15 @@ public final class Constants
 	public static final String WEBMARKET_APP_URL = "https://play.google.com/store/apps/details?id=%s";
 
 	public static final int HTTP_TIMEOUT_MS = 15 * (int) DateUtils.SECOND_IN_MILLIS;
+	public static final int PEER_DISCOVERY_TIMEOUT_MS = 10 * (int) DateUtils.SECOND_IN_MILLIS;
 	public static final int PEER_TIMEOUT_MS = 15 * (int) DateUtils.SECOND_IN_MILLIS;
 
 	public static final long LAST_USAGE_THRESHOLD_JUST_MS = DateUtils.HOUR_IN_MILLIS;
 	public static final long LAST_USAGE_THRESHOLD_RECENTLY_MS = 2 * DateUtils.DAY_IN_MILLIS;
 
-	public static final int SDK_JELLY_BEAN = 16;
-	public static final int SDK_JELLY_BEAN_MR2 = 18;
-	public static final int SDK_LOLLIPOP = 21;
-
 	public static final int SDK_DEPRECATED_BELOW = Build.VERSION_CODES.ICE_CREAM_SANDWICH;
 
-	public static final boolean BUG_OPENSSL_HEARTBLEED = Build.VERSION.SDK_INT == Constants.SDK_JELLY_BEAN
+	public static final boolean BUG_OPENSSL_HEARTBLEED = Build.VERSION.SDK_INT == Build.VERSION_CODES.JELLY_BEAN
 			&& Build.VERSION.RELEASE.startsWith("4.1.1");
 
 	public static final int MEMORY_CLASS_LOWEND = 48;

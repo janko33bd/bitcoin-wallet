@@ -161,6 +161,7 @@
 	<string name="transaction_row_message_received_dead">This payment has been reversed by the sender.</string>
 	<string name="transaction_row_message_received_dust">This small amount can probably never be spent economically.</string>
 	<string name="transaction_row_message_received_pay_to_many">This payment pays to many wallets besides yours, which makes the app slow down over time. If you can, try receiving payments which pay only to you.</string>
+	<string name="transaction_row_message_received_rbf">This payment was delayed because the sender used an insecure transaction type.</string>
 	<string name="network_monitor_activity_title">Network monitor</string>
 	<string name="network_monitor_peer_list_title">Peers</string>
 	<string name="network_monitor_block_list_title">Blocks</string>
@@ -231,6 +232,8 @@
 	<string name="preferences_precision_labels_0_6">µBTC, no decimal places</string>
 	<string name="preferences_own_name_title">Own name</string>
 	<string name="preferences_own_name_summary">Name of yourself, to be added to payment requests. Try to keep it short.</string>
+	<string name="preferences_send_coins_autoclose_title">Auto-close send coins dialog</string>
+	<string name="preferences_send_coins_autoclose_summary">When the payment is made, the send dialog will close automatically.</string>
 	<string name="preferences_connectivity_notification_title">Connectivity indicator</string>
 	<string name="preferences_connectivity_notification_summary">Show current number of connected peers in the notification area.</string>
 	<string name="preferences_trusted_peer_title">Trusted peer</string>

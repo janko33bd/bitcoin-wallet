@@ -1,3 +1,29 @@
+v4.48
+
+* Fix for crash when entering too large amounts.
+* Add warning to RBF (replace-by-fee) transactions.
+
+v4.47
+
+* Automatically close send coins dialog if payment was successful. This can be disabled in the
+  settings.
+* Consider RBF (replace-by-fee) transactions as risky, so for them wait for the first
+  confirmation.
+* Update Catalan translation from Transifex.
+* Based on bitcoinj 0.13.5.
+
+v4.46
+
+* Speculative fix for ANR.
+
+v4.45
+
+* Adjusts to the new network fee rules imposed by Bitcoin Core.
+* Now requires Android 4.0.3 (ICS) for all subprojects.
+* Update Russian, Italian, Turkish, Swedish, Spanish, Norwegian Bokmål, Japanese, Hungarian,
+  Finnish, Dutch, Danish, Traditional Chinese and Brazilian Portuguese translations.
+* Based on bitcoinj 0.13.4.
+
 v4.44
 
 * Fix problem with sweeping paper wallets.
